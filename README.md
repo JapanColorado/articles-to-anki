@@ -1,5 +1,7 @@
 # Articles to Anki
 
+> **Deprecated.** This project is finished and no longer maintained. The last release, 1.1.1, is still on [PyPI](https://pypi.org/project/articles-to-anki/).
+
 **Articles to Anki** is a Python tool that automates the creation of high-quality Anki flashcards from articles, whether sourced from URLs or local files. Leveraging GPT-4, it intelligently generates focused cards that prioritize core concepts over trivial details, automatically selecting the optimal format (cloze or basic) for each concept to maximize learning effectiveness and avoid redundancy.
 
 ## Features
